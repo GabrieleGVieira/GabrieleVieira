@@ -28,13 +28,20 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Jr Product Developer Analyst at Shopee Brasil{" "}
+                          Developer Junior Associate at Shopee Brasil{" "}
                           <span>2022-present</span>
                         </h2>
                         <p>
-                          ◦ Participate in daily agile development ceremonies
-                          (Sprint Planning, Sprint Review, Sprint Retrospective
-                          and Daily Meeting){" "}
+                          ◦ Be responsible for the daily agile development
+                          ceremonies (Sprint Planning, Sprint Review, Sprint
+                          Retrospective and Daily Meeting){" "}
+                        </p>
+                        <p>
+                          ◦ Be responsible for continuous deliveries of releases
+                          in PRD
+                        </p>
+                        <p>
+                          ◦ Act on the refinement and prioritization of tasks
                         </p>
                         <p>
                           ◦ Acting in fronts of frontend and backend development{" "}
@@ -52,8 +59,10 @@ export default class Timeline extends Component {
                         </p>
                         <p>
                           <b>Skills: </b>
-                          Vue.js · TypeScript · Nuxt.js · Python · Pytest ·
-                          SQLAlchemy · FastAPI · Docker · Postman
+                          Use Case · Planning Poker · Kanban · Scrum · GitLab ·
+                          Git · SQLAlchemy · Pytest · FastAPI · Python · Vue.js
+                          · TypeScript · Docker · Nuxt · Postman API · GitFlow ·
+                          TDD (Test-driven Development)
                         </p>
                       </div>
                     </div>
@@ -148,8 +157,9 @@ export default class Timeline extends Component {
                         </p>
                         <p>
                           <b>Skills: </b>
-                          Pyspark · Microsoft Power BI · SQL · Oracle · Azure
-                          Data Bricks
+                          Kanban · Scrum · PySpark · VBA (Visual Basic for
+                          Applications) · Microsoft Power BI · SQL · Oracle ·
+                          Azure Data Bricks
                         </p>
                       </div>
                     </div>

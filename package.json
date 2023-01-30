@@ -2,7 +2,7 @@
   "name": "pg-pessoal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gabrielegvieira.github.io/gabriele-vieira/",
+  "homepage": "https://gabrielegvieira.github.io/digital-resume//",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
