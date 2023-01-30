@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gabriele-vieira/precache-manifest.4aa038c769531ed065a910b17873e558.js"
+  "/digital-resume//precache-manifest.0a826609ebaccb12ae70f9499ef5d1fc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/gabriele-vieira/index.html", {
+workbox.routing.registerNavigationRoute("/digital-resume//index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
