@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export default class About extends Component {
   render() {
@@ -17,9 +17,14 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a Full Stack Software Developer and a Machine
-                        Learning lover. I love learning new things andand go
+                        I am a passionate Software Engineer, specializing as a
+                        Full Stack Developer. I love learning new things and go
                         through new challenges.
+                      </p>
+                      <p>
+                        I have work experience with Projects, Software
+                        Engineering, Product Development and Agile Project
+                        Management.
                       </p>
                       <p>
                         I belive that innovation isn't necessarily creating
@@ -56,9 +61,9 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Front-End Development </h3>
                     <p>
-                      I have experience with front-end technologies like
-                      Javascript/Typescript, Vue.js, React, Node.js, Ant Design,
-                      CSS
+                      Work experience with front-end technologies like
+                      Javascript/Typescript, Vue.js, React, Node.js,
+                      Styled-component, and more...
                     </p>
                   </div>
                 </div>
@@ -71,8 +76,9 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Back-End Development</h3>
                     <p>
-                      I have experience with front-end technologies like Python,
-                      Pytest, SQLALchemy, Postman API
+                      Work experience with front-end technologies like Python,
+                      CI/CD, FastAPI, Docker, MongoDB, NoSQL, Microservices,
+                      PostgreSQL, and more...
                     </p>
                   </div>
                 </div>
@@ -83,11 +89,11 @@ export default class About extends Component {
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>Data Science</h3>
+                    <h3> Agile Project Management</h3>
                     <p>
-                      I started my IT career in the Data area
-                      and I have experience with Azure Data Bricks, Oracle, SQL,
-                      Microsoft Power BI
+                      Work experience with Agile Development Ceremonies, Scrum,
+                      Kanban, Use Case, Planning Poker, GitFlow, JIRA,
+                      Confluence, and more...
                     </p>
                   </div>
                 </div>
