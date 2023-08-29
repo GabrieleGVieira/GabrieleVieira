@@ -24,6 +24,85 @@ export default class Projects extends Component {
               >
                 <div
                   className="project"
+                  style={{ backgroundImage: "url(images/netflix.webp)" }}
+                >
+                  <div className="desc">
+                    <div className="con">
+                      <h3>
+                        <a href="work.html">GABIFLIX</a>
+                      </h3>
+                      <span>
+                        Creating a clone website of the Netflix streaming
+                        platform.
+                      </span>
+                      <p className="icon">
+                        <span>
+                          <a
+                            className="btn btn-primary btn-learn"
+                            href="https://github.com/GabrieleGVieira/gabiflix"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            <i className="icon-code" />
+                          </a>
+                        </span>
+                        <span>
+                          <a
+                            className="btn btn-primary btn-learn"
+                            href="https://gabiflix-pearl.vercel.app/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            <i className="icon-open" />
+                          </a>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 animate-box"
+                data-animate-effect="fadeInLeft"
+              >
+                <div
+                  className="project"
+                  style={{ backgroundImage: "url(images/banking-system.avif)" }}
+                >
+                  <div className="desc">
+                    <div className="con">
+                      <h3>
+                        <a href="work.html">Banking System</a>
+                      </h3>
+                      <span>
+                        This project aims to study object-oriented programming
+                        using the Python programming language, with objective To
+                        create a banking system with operations such as
+                        withdrawal, deposit, view statement, create an account,
+                        and create a user.
+                      </span>
+                      <p className="icon">
+                        <span>
+                          <a
+                            className="btn btn-primary btn-learn"
+                            href="https://github.com/GabrieleGVieira/banking-system"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                          >
+                            <i className="icon-code" />
+                          </a>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="col-md-4 animate-box"
+                data-animate-effect="fadeInLeft"
+              >
+                <div
+                  className="project"
                   style={{ backgroundImage: "url(images/crud-bg.jpeg)" }}
                 >
                   <div className="desc">
@@ -44,7 +123,7 @@ export default class Projects extends Component {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <i className="icon-open" />
+                            <i className="icon-code" />
                           </a>
                         </span>
                       </p>
@@ -82,7 +161,7 @@ export default class Projects extends Component {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <i className="icon-open" />
+                            <i className="icon-code" />
                           </a>
                         </span>
                       </p>
@@ -120,7 +199,7 @@ export default class Projects extends Component {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <i className="icon-open" />
+                            <i className="icon-code" />
                           </a>
                         </span>
                       </p>
@@ -156,7 +235,7 @@ export default class Projects extends Component {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <i className="icon-open" />
+                            <i className="icon-code" />
                           </a>
                         </span>
                       </p>
