@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export default class Timeline extends Component {
   render() {
@@ -36,15 +36,13 @@ export default class Timeline extends Component {
                           ceremonies (Sprint Planning, Sprint Review, Sprint
                           Retrospective and Daily Meeting){" "}
                         </p>
-                        <p>
-                          ◦ Be responsible for continuous deliveries of releases
-                          in PRD
-                        </p>
+                        <p>◦ CI/CD using GitLab</p>
                         <p>
                           ◦ Act on the refinement and prioritization of tasks
                         </p>
                         <p>
-                          ◦ Acting in fronts of frontend and backend development{" "}
+                          ◦ Acting in fronts of frontend and backend development
+                          (Vue.js, React, Node.js, Python){" "}
                         </p>
                         <p>◦ Act on the correction of bugs </p>
                         <p> ◦ Perform tests</p>
@@ -55,14 +53,17 @@ export default class Timeline extends Component {
                           validation and control into a integrated and automated
                           portal, discarding processes made by excel and
                           increasing the control of promotions, discounts and
-                          massive masses of data.
+                          massive masses of data, reducing errors and making the
+                          process faster. The application consumes over 200k of
+                          upload data per day and is used by more than 200
+                          people in the product team.
                         </p>
                         <p>
                           <b>Skills: </b>
                           Use Case · Planning Poker · Kanban · Scrum · GitLab ·
-                          Git · SQLAlchemy · Pytest · FastAPI · Python · Vue.js
-                          · TypeScript · Docker · Nuxt · Postman API · GitFlow ·
-                          TDD (Test-driven Development)
+                          Git · GitFlow · SQLAlchemy · Pytest · Python · FastAPI
+                          · Vue.js · React · TypeScript · Docker · MongoDB ·
+                          NoSQL · Microservices · PostgreSQL
                         </p>
                       </div>
                     </div>
@@ -78,7 +79,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Scientific Initiation Scholarship at INPE{" "}
-                          <span>2022-present</span>
+                          <span>2022-2023</span>
                         </h2>
                         <p>
                           <b>Project name:</b> "Forecasting and monitoring of
@@ -98,9 +99,10 @@ export default class Timeline extends Component {
                         </p>
                         <p>
                           <b>Skills: </b>
-                          Python · netCDF (Network Common Data Form) · GrADS
-                          (Grid Analysis and Display System) · CDO (Climate Data
-                          Operators) · NCL (NCAR Command Language)
+                          Python · Pandas · Sklearn · Keras · MatplotLib · R · netCDF
+                          (Network Common Data Form) · GrADS (Grid Analysis and
+                          Display System) · CDO (Climate Data Operators) · NCL
+                          (NCAR Command Language)
                         </p>
                       </div>
                     </div>
